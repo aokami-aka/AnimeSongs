@@ -92,7 +92,7 @@ body {
 
     background-color: var(--solid);
 }
-@media (max-width: 721px) {
+@media (max-width: 650px) {
     .navbar {
         display: none;
         -webkit-box-align: center;
@@ -112,11 +112,10 @@ body {
     gap: 16px;
 
     margin: 0px auto;
-    padding: 1.5rem 1rem;
     width: 100%;
     max-width: 1100px;
 }
-@media (min-width: 721px) {
+@media (min-width: 650px) {
     .navbar-icons {
         flex-direction: row;
         -webkit-box-align: stretch;
@@ -146,7 +145,6 @@ a {
     gap: 24px;
 
     margin: 0px auto;
-    padding: 1.5rem 1rem;
     width: 100%;
     max-width: 1100px;
 }
@@ -156,6 +154,7 @@ a {
     font-size: 2rem;
     font-weight: 700;
     color: var(--text);
+    padding: 1.5rem 1rem;
 }
 h1 {
     display: block;
@@ -182,6 +181,7 @@ h1 {
 .info-left {
     display: flex;
     flex-direction: column;
+    padding: 1.5rem 1rem;
 }
 .cover-image {
     width: 100%;
@@ -518,20 +518,12 @@ svg:not(:host).spoiler-icon, svg:not(:root).spoiler-icon {
     width: 100%;
     max-height: calc(100vh - 96px);
     aspect-ratio: 16 / 9;
-    overflow: hidden;
     z-index: 5;
     box-shadow: var(--high);
     
     animation-name: fade;
     animation-duration: 1.5s;
     
-}
-@media (max-width: 650px) {
-    .iframe {
-        position: sticky;
-        top: 0px;
-        z-index: 25;
-    }
 }
 .video-iframe {
     width: 100%;
@@ -540,6 +532,16 @@ svg:not(:host).spoiler-icon, svg:not(:root).spoiler-icon {
     background-color: #1c1823;
 
     border-radius: 8px;
+}
+@media (max-width: 650px) {
+    .iframe {
+        position: sticky;
+        top: 0px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+    }
+    .video-iframe {
+        border-radius: 0px 0px 8px 8px;
+    }
 }
 
 @keyframes fade {
