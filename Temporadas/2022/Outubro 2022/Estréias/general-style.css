@@ -29,7 +29,10 @@
     --warning-900: #7f1d1d;
     --background: #1c1823;
     --solid: #2e293a;
-    --solid-primary: #75ead4;
+    --solid-primary-winter: #7ad6f7;
+    --solid-primary-spring: #75ead4;
+    --solid-primary-summer: #e5ff00;
+    --solid-primary-fall: #ed865a;
     --solid-on-card: #453d53;
     --text: #f5f2fa;
     --text-muted: #d1cae0;
@@ -40,7 +43,10 @@
     --text-primary-spring: #75ead4;
     --text-primary-summer: #d4e863;
     --text-primary-fall: #ed865a;
-    --text-on-primary: #1e4e4a;
+    --text-on-primary-winter: #002f5f;
+    --text-on-primary-spring: #1e4e4a;
+    --text-on-primary-summer: #ff0000;
+    --text-on-primary-fall: #531c01;
     --low: 1px 2px 2px hsl(262deg 20% 7% / 0.25);
     --medium: 1px 2px 2px hsl(262deg 20% 7% / 0.3), 2px 4px 4px hsl(262deg 20% 7% / 0.3), 3px 6px 6px hsl(262deg 20% 7% / 0.3);
     --high: 1px 2px 2px hsl(262deg 20% 10% / 0.5), 2px 4px 4px hsl(262deg 20% 10% / 0.5), 4px 8px 8px hsl(262deg 20% 10% / 0.5), 8px 16px 16px hsl(262deg 20% 10% / 0.5), 16px 32px 32px hsl(262deg 20% 10% / 0.5);
@@ -408,8 +414,8 @@ p {
     box-shadow: none;
     margin: -8px 8px -8px -16px;
 
-    background-color: var(--solid-primary);
-    color: var(--text-on-primary);
+    background-color: var(--solid-primary-fall);
+    color: var(--text-on-primary-fall);
 
     --gap: 0;
     display: inline-flex;
