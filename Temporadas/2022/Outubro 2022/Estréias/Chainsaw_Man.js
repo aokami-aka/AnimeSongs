@@ -11,6 +11,7 @@ function ShowHiddenop1() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('op1').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -25,6 +26,7 @@ function ShowHiddenop1() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -36,7 +38,8 @@ function ShowHiddenop1() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'block',
 		document.getElementById('ed1').style.display = 'none',
@@ -50,6 +53,7 @@ function ShowHiddenop1() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -61,7 +65,8 @@ function ShowHiddenop1() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened1() {
@@ -77,6 +82,7 @@ function ShowHiddened1() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed1').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -91,6 +97,7 @@ function ShowHiddened1() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -102,7 +109,8 @@ function ShowHiddened1() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'block',
@@ -116,6 +124,7 @@ function ShowHiddened1() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -127,7 +136,8 @@ function ShowHiddened1() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened2() {
@@ -143,6 +153,7 @@ function ShowHiddened2() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed2').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -157,6 +168,7 @@ function ShowHiddened2() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -168,7 +180,8 @@ function ShowHiddened2() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -182,6 +195,7 @@ function ShowHiddened2() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -193,7 +207,8 @@ function ShowHiddened2() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened3() {
@@ -209,6 +224,7 @@ function ShowHiddened3() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed3').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -223,6 +239,7 @@ function ShowHiddened3() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -234,7 +251,8 @@ function ShowHiddened3() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -248,6 +266,7 @@ function ShowHiddened3() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -259,7 +278,8 @@ function ShowHiddened3() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened4() {
@@ -275,6 +295,7 @@ function ShowHiddened4() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed4').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -289,6 +310,7 @@ function ShowHiddened4() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -300,7 +322,8 @@ function ShowHiddened4() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -314,6 +337,7 @@ function ShowHiddened4() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -325,7 +349,8 @@ function ShowHiddened4() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened5() {
@@ -341,6 +366,7 @@ function ShowHiddened5() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed5').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -355,6 +381,7 @@ function ShowHiddened5() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -366,7 +393,8 @@ function ShowHiddened5() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -380,6 +408,7 @@ function ShowHiddened5() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -391,7 +420,8 @@ function ShowHiddened5() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened6() {
@@ -407,6 +437,7 @@ function ShowHiddened6() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed6').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -421,6 +452,7 @@ function ShowHiddened6() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -432,7 +464,8 @@ function ShowHiddened6() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -446,6 +479,7 @@ function ShowHiddened6() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -457,7 +491,8 @@ function ShowHiddened6() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened7() {
@@ -473,6 +508,7 @@ function ShowHiddened7() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed7').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -487,6 +523,7 @@ function ShowHiddened7() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -498,7 +535,8 @@ function ShowHiddened7() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -512,6 +550,7 @@ function ShowHiddened7() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -523,7 +562,8 @@ function ShowHiddened7() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened8() {
@@ -539,6 +579,7 @@ function ShowHiddened8() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed8').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -553,6 +594,7 @@ function ShowHiddened8() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -564,7 +606,8 @@ function ShowHiddened8() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -578,6 +621,7 @@ function ShowHiddened8() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -589,7 +633,8 @@ function ShowHiddened8() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened9() {
@@ -605,6 +650,7 @@ function ShowHiddened9() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed9').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -619,6 +665,7 @@ function ShowHiddened9() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -630,7 +677,8 @@ function ShowHiddened9() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -644,6 +692,7 @@ function ShowHiddened9() {
         document.getElementById('ed9').style.display = 'block',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -655,7 +704,8 @@ function ShowHiddened9() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened10() {
@@ -671,6 +721,7 @@ function ShowHiddened10() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed10').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -685,6 +736,7 @@ function ShowHiddened10() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -696,7 +748,8 @@ function ShowHiddened10() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -710,6 +763,7 @@ function ShowHiddened10() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'block',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -721,7 +775,8 @@ function ShowHiddened10() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 }
 
 function ShowHiddened11() {
@@ -737,6 +792,7 @@ function ShowHiddened11() {
 	const video10 = document.getElementById('video10');
 	const video11 = document.getElementById('video11');
 	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
 
 	if(document.getElementById('ed11').style.display == 'block')
 		document.getElementById('op1').style.display = 'none', 
@@ -751,6 +807,7 @@ function ShowHiddened11() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -762,7 +819,8 @@ function ShowHiddened11() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
 	else
 		document.getElementById('op1').style.display = 'none',
 		document.getElementById('ed1').style.display = 'none',
@@ -776,6 +834,7 @@ function ShowHiddened11() {
         document.getElementById('ed9').style.display = 'none',
         document.getElementById('ed10').style.display = 'none',
         document.getElementById('ed11').style.display = 'block',
+		document.getElementById('ed12').style.display = 'none',
 		video1.pause(),
 		video2.pause(),
 		video3.pause(),
@@ -787,5 +846,77 @@ function ShowHiddened11() {
 		video9.pause(),
 		video10.pause(),
 		video11.pause(),
-		video12.pause();
+		video12.pause(),
+		video13.pause();
+}
+
+function ShowHiddened12() {
+	const video1 = document.getElementById('video1');
+	const video2 = document.getElementById('video2');
+	const video3 = document.getElementById('video3');
+	const video4 = document.getElementById('video4');
+	const video5 = document.getElementById('video5');
+    const video6 = document.getElementById('video6');
+	const video7 = document.getElementById('video7');
+    const video8 = document.getElementById('video8');
+	const video9 = document.getElementById('video9');
+	const video10 = document.getElementById('video10');
+	const video11 = document.getElementById('video11');
+	const video12 = document.getElementById('video12');
+	const video13 = document.getElementById('video13');
+
+	if(document.getElementById('ed12').style.display == 'block')
+		document.getElementById('op1').style.display = 'none', 
+		document.getElementById('ed1').style.display = 'none',
+		document.getElementById('ed2').style.display = 'none',
+		document.getElementById('ed3').style.display = 'none',
+		document.getElementById('ed4').style.display = 'none',
+		document.getElementById('ed5').style.display = 'none',
+        document.getElementById('ed6').style.display = 'none',
+        document.getElementById('ed7').style.display = 'none',
+        document.getElementById('ed8').style.display = 'none',
+        document.getElementById('ed9').style.display = 'none',
+        document.getElementById('ed10').style.display = 'none',
+        document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'none',
+		video1.pause(),
+		video2.pause(),
+		video3.pause(),
+		video4.pause(),
+		video5.pause(),
+		video6.pause(),
+        video7.pause(),
+		video8.pause(),
+		video9.pause(),
+		video10.pause(),
+		video11.pause(),
+		video12.pause(),
+		video13.pause();
+	else
+		document.getElementById('op1').style.display = 'none',
+		document.getElementById('ed1').style.display = 'none',
+		document.getElementById('ed2').style.display = 'none',
+		document.getElementById('ed3').style.display = 'none',
+		document.getElementById('ed4').style.display = 'none',
+		document.getElementById('ed5').style.display = 'none',
+        document.getElementById('ed6').style.display = 'none',
+        document.getElementById('ed7').style.display = 'none',
+        document.getElementById('ed8').style.display = 'none',
+        document.getElementById('ed9').style.display = 'none',
+        document.getElementById('ed10').style.display = 'none',
+        document.getElementById('ed11').style.display = 'none',
+		document.getElementById('ed12').style.display = 'block',
+		video1.pause(),
+		video2.pause(),
+		video3.pause(),
+		video4.pause(),
+		video5.pause(),
+		video6.pause(),
+        video7.pause(),
+		video8.pause(),
+		video9.pause(),
+		video10.pause(),
+		video11.pause(),
+		video12.pause(),
+		video13.pause();
 }
