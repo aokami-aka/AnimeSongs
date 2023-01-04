@@ -151,6 +151,14 @@ a {
         padding: 1.5rem 1rem;
     }
 }
+@media (max-width: 650px) {
+    .anime-title, .anime-cover, .link-title-content {
+        padding: 1.5rem 1rem;
+    }
+    .sinopsis, .video-container {
+        margin: 0rem 1rem;
+    }
+}
 .anime-title {
     margin: 0px;
     scroll-margin-top: 4rem;
@@ -175,8 +183,7 @@ h1 {
 }
 @media (max-width: 650px) {
     .anime-info {
-        display: flex;
-        flex-direction: column;
+        grid-template-columns: 1fr;
     }
     
 }
@@ -189,14 +196,10 @@ h1 {
     height: 100%;
     border-radius: 0.5rem;
     box-shadow: var(--medium);
+    background-size: cover;
+    background-position: center center;
 }
-@media (max-width: 650px) {
-    .cover-image {
-        width: 40%;
-        height: 40%;
-        margin: auto;
-    }
-}
+
 img, video{
     display: block;
     max-width: 100%;
