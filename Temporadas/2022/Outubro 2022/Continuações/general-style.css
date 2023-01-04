@@ -45,7 +45,7 @@
     --text-primary-fall: #ed865a;
     --text-on-primary-winter: #002f5f;
     --text-on-primary-spring: #1e4e4a;
-    --text-on-primary-summer: #ff0000;
+    --text-on-primary-summer: #c10000;
     --text-on-primary-fall: #531c01;
     --low: 1px 2px 2px hsl(262deg 20% 7% / 0.25);
     --medium: 1px 2px 2px hsl(262deg 20% 7% / 0.3), 2px 4px 4px hsl(262deg 20% 7% / 0.3), 3px 6px 6px hsl(262deg 20% 7% / 0.3);
@@ -139,12 +139,24 @@ a {
 .content-container {
     display: flex;
     flex-direction: column;
-    margin-bottom: 32px;
     gap: 24px;
 
-    margin: 0px auto;
+    margin: 0px auto 1.5rem auto;
     width: 100%;
     max-width: 1100px;
+}
+@media (min-width: 650px) {
+    .content-container {
+        padding: 1.5rem 1rem;
+    }
+}
+@media (max-width: 650px) {
+    .anime-title, .anime-cover, .link-title-content {
+        padding: 1.5rem 1rem;
+    }
+    .sinopsis, .video-container {
+        margin: 0rem 1rem;
+    }
 }
 .anime-title {
     margin: 0px;
@@ -152,7 +164,6 @@ a {
     font-size: 2rem;
     font-weight: 700;
     color: var(--text);
-    padding: 1.5rem 1rem;
 }
 h1 {
     display: block;
@@ -171,15 +182,13 @@ h1 {
 }
 @media (max-width: 650px) {
     .anime-info {
-        display: flex;
-        flex-direction: column;
+        grid-template-columns: 1fr;
     }
     
 }
 .info-left {
     display: flex;
     flex-direction: column;
-    padding: 1.5rem 1rem;
 }
 .cover-image {
     width: 100%;
@@ -189,13 +198,7 @@ h1 {
     background-size: cover;
     background-position: center center;
 }
-@media (max-width: 650px) {
-    .cover-image {
-        width: 40%;
-        height: 40%;
-        margin: auto;
-    }
-}
+
 img, video{
     display: block;
     max-width: 100%;
