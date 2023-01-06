@@ -254,7 +254,7 @@ dt {
     margin: 0px;
     scroll-margin-top: 4rem;
     cursor: pointer;
-    color: var(--text-primary-spring);
+    color: var(--text-primary-winter);
     font-weight: 600;
 }
 .link:hover {
@@ -289,7 +289,7 @@ dt {
     left: 0px;
     width: 4px;
     height: 100%;
-    background-color: var(--text-primary-spring);
+    background-color: var(--text-primary-winter);
 }
 .sinopsis-container {
     overflow: hidden;
@@ -337,7 +337,7 @@ p {
     left: 0px;
     width: 4px;
     height: 100%;
-    background-color: var(--text-primary-spring);
+    background-color: var(--text-primary-winter);
 }
 .video-label {
     display: grid;
@@ -418,8 +418,8 @@ p {
     box-shadow: none;
     margin: -8px 8px -8px -16px;
 
-    background-color: var(--solid-primary-spring);
-    color: var(--text-on-primary-spring);
+    background-color: var(--solid-primary-winter);
+    color: var(--text-on-primary-winter);
 
     --gap: 0;
     display: inline-flex;
