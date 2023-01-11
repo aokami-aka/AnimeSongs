@@ -9,442 +9,627 @@
 
 <url>
   <loc>https://animesongs.vercel.app/</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Jan2023.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Jan2022.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Abr2022.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Jul2022.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Out2022.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/index.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/ars_no_kyoujuu.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/ayakashi_triangle.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/benriya_saitou-san.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/blue_lock.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/buddy_daddies.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/bungo_4.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/danmachi_4.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/isekai_nonbiri.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/koori_zokusei.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/oniichan.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/revenger.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/spy_kyoushitsu.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/sugar_apple.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/tensei_oujo.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/tokyo_revengers_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/tomo-chan.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/tsurune_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Urusei_Yatsura_(2022).html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/akebi-chan.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Continua%C3%A7%C3%B5es/arifureta_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/baraou_no_souretsu.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/doll_frontline.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/hakozume.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Aharen-San_Wa_Hakarenai.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Ao_Ashi.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/Build_Divide_Code_White.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Dance_Dance_Danseur.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/Date_A_Live_IV.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Gaikotsu_Kishi-sama.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Healer_Girl.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/Honzuki_3.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/Kaguya-sama_3.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Kakkou_no_Iinazuke.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Kawaii_dake_ja_Nai.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/kingdom_4.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/koi_wa_sekai.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/komi-san_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Kunoichi_Tsubaki.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/machikado_mazoku_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/mahoutsukai_heimeiki.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/onipan.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/paripi_koumei.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/shachiku-san.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/shokei_shoujo.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/spy_x_family.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Bucchigire!.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Dr._Stone_Ryuusui.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/DanMachi_IV.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Engage_Kiss.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Fuuto_Tantei.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Hataraku_Maou-sama!!.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Hoshi_no_Samidare.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Isekai_Meikyuu_De_Harem_Wo.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Isekai%20Ojisan.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Kanojo_Okarishimasu_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Kumichou_Musume_to_Sewagakari.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Kuro_no_Shoukanshi.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Lycoris_Recoil.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Made_in_Abyss_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Overlord_IV.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/RWBY_Hyousetsu_Teikoku.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Shadows_House_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Yofukashi_no_Uta.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Classroom_of_the_Elite_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Yurei_Deco.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/4-nin_wa_Sorezore_Uso_wo_Tsuku.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/arknights.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/bleach.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/boku_no_hero_6.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/c_danchi.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/buddy_daddies.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Chainsaw_Man.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/bungo_4.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Do_It_Yourself!!.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/danmachi_4.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/eiyuuou.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/Fumetsu_no_Anata_e_2.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/high_card.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/hikari_no_ou.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/ijiranaide_nagatoro-san_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/isekai_nonbiri.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/itai_no_wa_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/kami-tachi_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/koori_zokusei.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/kubo-san.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/kyokou_suiri_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/kyuuketsuki_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/maou_gakuin_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/mononogatari.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/mou_ippon.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/nakemono-tachi.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/nier.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/oniichan.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/ooyukiumi_no_kaina.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/otonari_no_tenshi.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/revenger.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/rougo_ni_sonaete.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/saikyou_omniouji.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/shinka_no_mi_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/spy_kyoushitsu.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/sugar_apple.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/tensei_oujo.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/tokyo_revengers_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/tomo-chan.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/tondemo_skill.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Estr%C3%A9ias/trigun.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/tsurune_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Urusei_Yatsura_(2022).html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2023/Janeiro2023/Continua%C3%A7%C3%B5es/vinland_saga_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/akebi-chan.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Continua%C3%A7%C3%B5es/arifureta_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/baraou_no_souretsu.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/doll_frontline.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/hakozume.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/kaijin_kaihatsu-bu.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Continua%C3%A7%C3%B5es/takagi-san_3.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/leadale.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/orient.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Continua%C3%A7%C3%B5es/princess_connect_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/sabiiro_no_armor.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/sabikui_bisco.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Continua%C3%A7%C3%B5es/shingeki_4.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/slow_loop.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/sono_bisque_doll.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/tokyo_24-ku.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Estr%C3%A9ias/tribe_nine.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Janeiro%202022/Continua%C3%A7%C3%B5es/vanitas_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Aharen-San_Wa_Hakarenai.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Ao_Ashi.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/Build_Divide_Code_White.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Dance_Dance_Danseur.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/Date_A_Live_IV.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Gaikotsu_Kishi-sama.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Healer_Girl.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/Honzuki_3.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/Kaguya-sama_3.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Kakkou_no_Iinazuke.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Kawaii_dake_ja_Nai.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/kingdom_4.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/koi_wa_sekai.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/komi-san_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/Kunoichi_Tsubaki.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Continua%C3%A7%C3%B5es/machikado_mazoku_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/mahoutsukai_heimeiki.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/onipan.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/paripi_koumei.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/shachiku-san.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/shokei_shoujo.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Abril%202022/Estr%C3%A9ias/spy_x_family.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Bucchigire!.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Dr._Stone_Ryuusui.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/DanMachi_IV.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Engage_Kiss.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Fuuto_Tantei.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Hataraku_Maou-sama!!.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Hoshi_no_Samidare.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Isekai_Meikyuu_De_Harem_Wo.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Isekai%20Ojisan.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Kanojo_Okarishimasu_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Kumichou_Musume_to_Sewagakari.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Kuro_no_Shoukanshi.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Lycoris_Recoil.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Made_in_Abyss_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Overlord_IV.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/RWBY_Hyousetsu_Teikoku.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Shadows_House_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Yofukashi_no_Uta.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Continua%C3%A7%C3%B5es/Classroom_of_the_Elite_2.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Julho%202022/Estr%C3%A9ias/Yurei_Deco.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/4-nin_wa_Sorezore_Uso_wo_Tsuku.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/arknights.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/bleach.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/c_danchi.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Chainsaw_Man.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Do_It_Yourself!!.html</loc>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/Golden_Kamuy_4.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Koukyuu_no_Karasu.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Mobile_Suit_Gundam_The_Witch_from_Mercury.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/Mairimashita!_Iruma-kun_3.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/Mob_Psycho_100_III.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Shinobi_no_Ittoki.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Tensei_shitara_Ken_Deshita.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/Spy%20x%20Family%20Part%202.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Estr%C3%A9ias/Uchi_no_Shishou_wa_Shippo_ga_Nai.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://animesongs.vercel.app/Temporadas/2022/Outubro%202022/Continua%C3%A7%C3%B5es/Uzaki-chan_wa_Asobitai!_Double.html</loc>
-  <lastmod>2023-01-06T16:47:40+00:00</lastmod>
+  <lastmod>2023-01-11T17:08:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
