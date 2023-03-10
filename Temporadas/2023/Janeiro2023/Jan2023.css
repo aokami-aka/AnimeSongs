@@ -277,6 +277,7 @@ h1 {
 }
 .spring-Pagelink:hover, .summer-Pagelink:hover, .fall-Pagelink:hover {
   color: var(--text);
+  cursor: pointer;
 }
 .spring-Pagelink, .summer-Pagelink, .fall-Pagelink {
   position: relative;
