@@ -599,6 +599,7 @@ svg:not(:host).spoiler-icon, svg:not(:root).spoiler-icon {
 }
 
 audio {
+    width: 450px;
     float: right;
     border:1px solid #75ead4;
     border-radius: 50px;
