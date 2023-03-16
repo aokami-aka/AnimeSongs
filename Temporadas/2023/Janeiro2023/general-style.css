@@ -442,6 +442,10 @@ svg:not(:host).svg-play, svg:not(:root).svg-play {
     overflow: visible;
     box-sizing: content-box;
 }
+.svg-number {
+    transform: translateY(0.2rem);
+    color: var(--text-disabled);
+}
 .svg-play {
     width: var(--fa-fw-width,1.25em);
 
@@ -499,6 +503,39 @@ svg:not(:host).spoiler-icon, svg:not(:root).spoiler-icon {
 
     flex-direction: row;
 }
+.link-description {
+    display: flex;
+    -webkit-box-align: baseline;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+
+    flex-direction: row;
+
+    --justify-content: initial;
+    --align-items: initial;
+    --gap: initial;
+    display: flex;
+    -webkit-box-pack: var(--justify-content);
+    justify-content: var(--justify-content);
+    -webkit-box-align: var(--align-items);
+    align-items: var(--align-items);
+    gap: var(--gap);
+}
+.line-icons {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: baseline;
+    align-items: baseline;
+    gap: 4px;
+}
+.video-mode {
+    letter-spacing: 0.05rem;
+    margin: 0px;
+    scroll-margin-top: 4rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+}
 .icon-text {
     display: flex;
     flex-direction: row;
@@ -533,6 +570,58 @@ svg:not(:host).spoiler-icon, svg:not(:root).spoiler-icon {
     background-color: #1c1823;
 
     border-radius: 8px;
+}
+
+audio {
+    width: 450px;
+    float: right;
+    border:1px solid #7ad6f7;
+    border-radius: 50px;
+    box-shadow: var(--low);
+}
+audio::-webkit-media-controls-panel {
+    background-color: #453d53;
+}
+audio::-webkit-media-controls-mute-button {
+    background-color: #7ad6f7;
+    border-radius: 50%;
+}
+audio::-webkit-media-controls-play-button {
+    background-color: #7ad6f7;
+    border-radius: 50%;
+    transition: all 0.2s;
+}
+audio::-webkit-media-controls-play-button:hover  {
+    background-color: #abfff0;
+}
+audio::-webkit-media-controls-current-time-display {
+    color: #7ad6f7;
+}
+audio::-webkit-media-controls-time-remaining-display {
+    color: #7ad6f7;
+}
+audio::-webkit-media-controls-timeline {
+    background-color: #7ad6f7;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+audio::-webkit-media-controls-volume-slider {
+    background-color: #7ad6f7;
+    border-radius: 25px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+@media (max-width: 600px) {
+    audio::-webkit-media-controls-timeline {
+        padding: 10px;
+        display: none;
+    }
+
+    audio {
+        width: 200px;
+    }
 }
 @media (max-width: 650px) {
     .iframe {
