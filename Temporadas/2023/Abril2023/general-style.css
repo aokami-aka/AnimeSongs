@@ -598,6 +598,7 @@ svg:not(:host).spoiler-icon, svg:not(:root).spoiler-icon {
     border-radius: 8px;
 }
 
+
 audio {
     width: 450px;
     float: right;
@@ -639,7 +640,15 @@ audio::-webkit-media-controls-volume-slider {
     padding-right: 8px;
 }
 
+@media (max-width: 600px) {
+    audio::-webkit-media-controls-timeline {
+        display: none;
+    }
 
+    audio {
+        width: 200px;
+    }
+}
 @media (max-width: 650px) {
     .iframe {
         position: sticky;
