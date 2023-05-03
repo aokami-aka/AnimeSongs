@@ -309,7 +309,23 @@ dt {
 p {
     line-height: inherit;
 }
-
+summary{
+    list-style: none;
+    outline: none;
+} 
+#audios {
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+}
+#audios:hover {
+    color: var(--gray-100);
+    background-color: var(--solid);
+    border-radius: 15px;
+}
+#audios:hover > #number {
+    color: var(--gray-300);
+}
 .video-number {
     margin: 0px;
     scroll-margin-top: 4rem;
