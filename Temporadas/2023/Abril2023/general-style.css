@@ -354,6 +354,26 @@ p {
     font-weight: 700;
     color: var(--text);
 }
+summary{
+    list-style: none;
+    outline: none;
+} 
+#audios {
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+}
+#number {
+    transition: all 0.1s ease-in;
+}
+#audios:hover {
+    color: var(--gray-100);
+    background-color: var(--solid);
+    border-radius: 15px;
+}
+#audios:hover > #number {
+    color: var(--gray-300);
+}
 .op-artist {
     margin: 0px;
     scroll-margin-top: 4rem;
@@ -453,6 +473,12 @@ svg:not(:host).svg-play, svg:not(:root).svg-play {
     height: 1em;
     overflow: visible;
     vertical-align: -.125em;
+}
+#arrow {
+    transition: all 0.2s ease-in;
+}
+#arrow:hover {
+    color: var(--gray-100);
 }
 #spoiler {
     filter: blur(4px);
@@ -642,11 +668,11 @@ audio::-webkit-media-controls-volume-slider {
 
 @media (max-width: 600px) {
     audio::-webkit-media-controls-timeline {
-        display: none;
+        opacity: 0;
     }
 
     audio {
-        width: 200px;
+        width: 250px;
     }
 }
 @media (max-width: 650px) {
