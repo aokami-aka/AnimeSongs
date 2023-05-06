@@ -428,6 +428,29 @@
     display: block;
     max-width: 100%;
   }
+  summary{
+    list-style: none;
+    outline: none;
+  } 
+  #list {
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+}
+#list:hover {
+  color: var(--gray-100);
+  background-color: var(--solid);
+  border-radius: 15px;
+}
+#list:hover > #number {
+  color: var(--gray-300);
+}
+#arrow {
+  transition: all 0.2s ease-in;
+}
+#arrow:hover {
+  color: var(--gray-100);
+}
   /* --------------------------------------------- */
   
 :root {
