@@ -628,39 +628,39 @@ svg:not(:host).spoiler-icon, svg:not(:root).spoiler-icon {
 audio {
     width: 450px;
     float: right;
-    border:1px solid #75ead4;
+    border:1px solid #d9ea75;
     border-radius: 50px;
     box-shadow: var(--low);
 }
 audio::-webkit-media-controls-panel {
-    background-color: #453d53;
+    background-color: #53533d;
 }
 audio::-webkit-media-controls-mute-button {
-    background-color: #75ead4;
+    background-color: #eae275;
     border-radius: 50%;
 }
 audio::-webkit-media-controls-play-button {
-    background-color: #75ead4;
+    background-color: #e8ea75;
     border-radius: 50%;
     transition: all 0.2s;
 }
 audio::-webkit-media-controls-play-button:hover  {
-    background-color: #abfff0;
+    background-color: #f9ffab;
 }
 audio::-webkit-media-controls-current-time-display {
-    color: #75ead4;
+    color: #eae875;
 }
 audio::-webkit-media-controls-time-remaining-display {
-    color: #33f0ce;
+    color: #f0ed33;
 }
 audio::-webkit-media-controls-timeline {
-    background-color: #33f0ce;
+    background-color: #f0ed33;
     border-radius: 25px;
     margin-left: 10px;
     margin-right: 10px;
 }
 audio::-webkit-media-controls-volume-slider {
-    background-color: #33f0ce;
+    background-color: #edf033;
     border-radius: 25px;
     padding-left: 8px;
     padding-right: 8px;
