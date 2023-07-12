@@ -90,7 +90,7 @@ class Accordion {
 		height: [startHeight, endHeight]
 	  }, {
 		duration: 200,
-		easing: 'ease-out'
+		easing: 'ease-in'
 	  });
 	  // When the animation is complete, call onAnimationFinish()
 	  this.animation.onfinish = () => this.onAnimationFinish(true);
@@ -114,3 +114,28 @@ class Accordion {
   document.querySelectorAll('details').forEach((el) => {
 	new Accordion(el);
 });
+
+(function() {
+	$('details').on('toggle', function(event) {
+    var id = $(this).attr('id')
+    var isOpen = $(this).attr('open')
+    console.log(id, isOpen)
+    window.localStorage.setItem('details-'+id, isOpen)
+  })
+
+function setDetailOpenStatus(item) {
+  if (item.includes('details-')) {
+    var id = item.split('details-')[1];
+    var status = window.localStorage.getItem(item)
+    if (status == 'open'){
+      $("#"+id).attr('open',true)
+     }
+   }
+}
+
+$( document ).ready(function() {
+  for (var i = 0; i < localStorage.length; i++) {
+    setDetailOpenStatus(localStorage.key(i));
+  }
+});
+})();
