@@ -12,3 +12,10 @@ document.addEventListener('play', function(e){
         }  
     }    
 }, true);
+
+const tagsDeAudio = document.getElementsByTagName('audio');
+const volumeInicial = 0.3;
+
+for (let i = 0; i < tagsDeAudio.length; i++) {
+  tagsDeAudio[i].volume = volumeInicial;
+}
